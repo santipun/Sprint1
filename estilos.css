@@ -1,0 +1,11 @@
+
+nav {
+    background-color: cornflowerblue;
+    height: 50px;
+}
+
+nav button {
+    float: right;
+    vertical-align: middle;
+    padding: 15px 32px
+}
