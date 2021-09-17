@@ -1,4 +1,3 @@
-
 nav {
     background-color: cornflowerblue;
     height: 50px;
@@ -8,4 +7,13 @@ nav button {
     float: right;
     vertical-align: middle;
     padding: 15px 32px
+}
+
+
+form {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
